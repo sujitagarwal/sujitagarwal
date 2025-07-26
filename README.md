@@ -1,16 +1,16 @@
-### Hi there 👋
+# 👋 Hi, I'm Sujit Agarwal
 
-<!--
-**sujitagarwal/sujitagarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Security Engineer** with a strong background in Secure Software Development, Security Automation, and Offensive/Defensive Security strategies. I love building tools, breaking things to make them better, and mentoring the next wave of secure coders.
 
-Here are some ideas to get you started:
+## 🛠️ What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛡️ Secure architecture & code reviews  
+- 🐞 Bug bounty triage & vulnerability management  
+- ⚙️ Custom security tool development  
+- 🎯 Penetration testing (internal & external)  
+- 📚 Developer training & secure SDLC integration
+
+---
+
+📫 **Let's connect**:  
+[LinkedIn](https://www.linkedin.com/in/sujit-agarwal/)
